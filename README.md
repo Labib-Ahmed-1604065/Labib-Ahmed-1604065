@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Labib-Ahmed-1604065
-- 👀 I’m interested in web development and app develomnet
+- 👀 I’m interested in web development, app development and cyber security
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me labibahmed36@gmail.com
